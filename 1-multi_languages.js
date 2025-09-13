@@ -3,4 +3,4 @@ const messages=[ "C is fun",
 "Javascript is amazing"
 ];
 messages,forEach(msg=>console.log(msg))
-console.log("C is fun\nPython is cool\nJavascript is amazing");
+
