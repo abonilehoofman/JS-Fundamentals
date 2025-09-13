@@ -1,4 +1,5 @@
-const messages=[ "C is fun",
+const messages=[ 
+  "C is fun",
 "Python is cool",   
 "Javascript is amazing"
 ];
