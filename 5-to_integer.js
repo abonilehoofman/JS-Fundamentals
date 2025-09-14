@@ -1,6 +1,6 @@
 const arg = process.argv[2];
 if ( arg && !isNaN(Number(arg))){
-  console.log( "My number:" +parseht(arg));
+  console.log( "My number:" +parseIt(arg));
 }else{
-  console.log(" Not a number");
+  console.log("Not a number");
 }
